@@ -1,4 +1,6 @@
-﻿# Rainbow-Poem
+![example workflow](https://github.com/CodingOnBush/maven_training/tree/main/.github/workflows/build.yml/badge.svg)
+
+# Rainbow-Poem
 <p><strong>This is a training repo for my rainbow poem.
 You'll definitely love it!!
 
